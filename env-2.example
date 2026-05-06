@@ -1,0 +1,31 @@
+# IA — Geração de roteiro
+OPENAI_API_KEY=sua_chave_openai_aqui
+
+# Text-to-Speech
+ELEVENLABS_API_KEY=sua_chave_elevenlabs_aqui
+ELEVENLABS_VOICE_ID=id_da_voz_escolhida
+# Alternativa OpenAI TTS:
+# TTS_PROVIDER=openai  (ou "elevenlabs")
+# OPENAI_TTS_VOICE=onyx  (alloy, echo, fable, onyx, nova, shimmer)
+
+# YouTube API
+YOUTUBE_CLIENT_ID=seu_client_id
+YOUTUBE_CLIENT_SECRET=seu_client_secret
+YOUTUBE_CHANNEL_ID=id_do_canal
+
+# Configurações de vídeo
+VIDEOS_OUTPUT_DIR=./output
+VIDEOS_RESOLUTION=1920x1080
+VIDEOS_FPS=30
+MAX_VIDEO_DURATION_SECONDS=600
+
+# Publicação
+DEFAULT_CATEGORY_ID=22          # 22 = People & Blogs
+DEFAULT_PRIVACY=public          # public / private / unlisted
+AUTO_SCHEDULE=true
+SCHEDULE_HOUR=18                # Horário de publicação (UTC)
+
+# Roteiro
+ROTEIRO_MIN_WORDS=800
+ROTEIRO_MAX_WORDS=1500
+CANAL_NICHO=true_crime          # true_crime / horror / misterio / conspiracao
