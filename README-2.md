@@ -84,7 +84,7 @@ dark-channel-bot/
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU-USUARIO/dark-channel-bot.git
+git clone (https://github.com/gpimentel518-cmd/canaldark-automatizado)
 
 # 2. Instale dependências
 pip install -r requirements.txt
@@ -118,4 +118,4 @@ O arquivo `prompts/roteiro_dark.txt` define o estilo, tom e estrutura. Adapte pa
 
 > ⚠️ Use de forma responsável e dentro dos Termos de Serviço do YouTube.
 
-> 💼 Disponível para customização por nicho. [Entre em contato](mailto:SEU@EMAIL.COM)
+> 💼 Disponível para customização por nicho. [Entre em contato](mailto:contato@gabrielaoyara.art)
